@@ -18,7 +18,7 @@
 FROM phusion/baseimage:0.9.16
 
 # Dockerfile metadata.
-MAINTAINER SPX
+MAINTAINER Spyridon Xiarchos (https://sp.xiarchos.gr/)
 EXPOSE 25 53/udp 53/tcp 80 443 587 993 4190
 VOLUME /home/user-data
 
