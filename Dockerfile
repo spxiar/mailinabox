@@ -18,7 +18,7 @@
 FROM phusion/baseimage:0.9.16
 
 # Dockerfile metadata.
-MAINTAINER Joshua Tauberer (http://razor.occams.info)
+MAINTAINER SPX
 EXPOSE 25 53/udp 53/tcp 80 443 587 993 4190
 VOLUME /home/user-data
 
